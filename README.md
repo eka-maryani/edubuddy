@@ -6,7 +6,7 @@ EduBuddy adalah chatbot tutor interaktif untuk materi Data Science pemula. Dibua
 ## Demo
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white_red.svg)](https://edubuddy-em.streamlit.app/)
 
-![EduBuddy Demo Interface](assets/screenshots/demo.png)
+![EduBuddy Demo Interface](assets/screenshots/dashboard.png)
 
 ## Struktur Repo
 
