@@ -3,8 +3,10 @@
 ## Deskripsi
 EduBuddy adalah chatbot tutor interaktif untuk materi Data Science pemula. Dibuat menggunakan Streamlit dan LLM (OpenAI-compatible / Gemini). Fitur: chat, persona, memory sederhana, dan contoh integrasi LLM.
 
-## Demo / Screenshot
-(Sertakan screenshot UI di folder `assets/screenshots/`)
+## Demo
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white_red.svg)](https://edubuddy-em.streamlit.app/)
+
+![EduBuddy Demo Interface](assets/screenshots/demo.png)
 
 ## Struktur Repo
 
